@@ -1,6 +1,6 @@
 Welcome to the MK Partners Weekly Puzzle!
 
-A regular challenge for bragging rights, the coveted "extra tall" trophy, and a spin of the incredibly-engineered and criminally underutilized prize-wheel.
+A regular challenge for bragging rights, the coveted "extra tall" trophy, and a spin of the incredibly-engineered and almost-tragically underutilized prize-wheel.
 
 Every Monday (starting again now, because I've been bad at keeping this up - mostly because good puzzles are hard to find), we'll post a puzzle in the appropriately dated "Puzzles" folder. All you have to do is solve it!
 
