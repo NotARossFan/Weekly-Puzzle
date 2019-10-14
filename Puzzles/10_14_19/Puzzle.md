@@ -1,5 +1,5 @@
 This time, with pictures!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Parking Place Puzzle](https://github.com/NotARossFan/Weekly-Puzzle/blob/master/Resources/Images/parking_place.png)
 
 What number parking spot is the car parked in?
