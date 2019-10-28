@@ -1,0 +1,13 @@
+The Counterfeit Coin Challenge
+You are given 8 coins and told that one of them is counterfeit. The counterfeit one is slightly heavier 
+than the other seven. Otherwise, the coins look identical. Using a simple balance scale, how can you determine 
+which coin is counterfeit using the scale only twice?
+
+Place 3 coins on each side of the scale and hold 2 on the side.
+
+If the weight of the 6 coins on the scale (3x3) is even then discard the coins since they are all real and weigh
+the last two coins on the scale to find the counterfeit. 
+
+if the weight of the 6 coins is not even, than take the three coins on the heavier side and place one coin on each 
+side of the scale for the second weigh in while holding the third remaining coin. If the two coins on the scale are 
+even then you are holding the conterfeit coin. If the conterfeit is on the scale then it will be the heavier coin. 
